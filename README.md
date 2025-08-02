@@ -1,4 +1,4 @@
-Created a file structure.
+
 # 🏥 Digital Patient Card (DPC)
 
 A **Java-based mini project** that allows patients to manage their health profiles and enables doctors to verify the data and add prescriptions. It also generates a printable PDF health card.
