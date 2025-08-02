@@ -7,6 +7,8 @@ A **Java-based mini project** that allows patients to manage their health profil
 
 - Aebel Antosh  
 - G S Balamurali  
+- Ewan John Dennis
+- Alvin George
 - Johan Abraham  
 - Rohan K Joseph  
 
